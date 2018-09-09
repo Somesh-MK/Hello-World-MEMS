@@ -1,10 +1,11 @@
 Hello World :)
 Maybe a MEMS report may appears
 
-MEMS- Micro-Electro-Mechanical-Systems
+MEMS- Micro-Electro-Mechanical-Systems (OR NEMS take over!!!!)
+(nano nano nano nano)
 
 Specifically a report about micromixers.
-
+(Quantum Chaos ;D)
 This could potentially lead to the github aiding in developing
 a group report on how a micromixer was made.
 
