@@ -1,0 +1,23 @@
+Hello World :)
+Maybe a MEMS report may appears
+
+MEMS- Micro-Electro-Mechanical-Systems
+
+Specifically a report about micromixers.
+
+This could potentially lead to the github aiding in developing
+a group report on how a micromixer was made.
+
+Or not
+
+First File Complete :D
+
+Following the Coding Train (1.1 Introduction - Git and GitHubs for poets) Youtube video.
+
+After writing
+
+Repo -repository (of things)
+
+Commit - kinda like saving????
+
+Press commit new file button
